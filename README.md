@@ -304,6 +304,7 @@ const main = async () => {
     console.log('17. findMostDebitTransactionMonth()\n\n', transaction.findMostDebitTransactionMonth());
 };
 
+main();
 ```
 
 # 5. Ответы на контрольные вопросы
